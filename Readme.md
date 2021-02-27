@@ -1,4 +1,4 @@
-## CSD Taboola debugging
+## T debugging
 
 ```
 sudo docker build -t csd-vscode .
